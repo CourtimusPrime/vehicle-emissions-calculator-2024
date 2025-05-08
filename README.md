@@ -1,10 +1,10 @@
-
 # Vehicle Emissions Calculator (2024)
 
-A **Google Script** used to estimate the transportation emissions of participants traveling to-and-from an eco-focused chapter of a global networking organization. 
+A **Google Script** I developed during an internship to estimate the transportation emissions of participants travelling to and from an eco-focused chapter of a global networking organisation.
 
-I developed this app during an internship at _Ti22 Films_ in 2024-- _long_ before I knew about Github. 
+# Disclaimer
 
+This app does not work on local development, as this is a crude lift-and-shift code transfer. I created this app long before I knew about git (which would've saved me tons of time), and I have no plans of making any future adjustments or edits. I will be focused on creating other, more improved emission calculators in the future.
 
 ## API Tools
 
